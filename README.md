@@ -12,7 +12,7 @@ This project implements the classic Hangman game in Python with a unique twist. 
 - Simple and intuitive game flow
 
 ## How to Play
-#Firstly run the hangman.py file and then:
+# Firstly run the hangman.py file and then:
 1. The game randomly selects a word from a list.
 2. The player guesses one letter at a time or chooses to guess the whole word.
 3. Correct guesses reveal the letter's position(s) in the word and can increase the point tally.
